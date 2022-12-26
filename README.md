@@ -19,5 +19,5 @@ let hora = time.hour;
 let minutos = time.minute;
 let segundos = time.second;
 
-console.log(`Agóra é exatamente: ${hora}:${minutos}${segundos}`);
+console.log(`Agóra é exatamente: ${hora} horas ${minutos} minutos ${segundos} seegundos.`);
 ```
