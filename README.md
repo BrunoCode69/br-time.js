@@ -1,13 +1,23 @@
-# br-time.js
-# Modo de uso:
+# Exemplo de uso abaixo:
+# Data do calendario:
+```js
+const time = require("br-time.js");
+
+let dia = time.days;
+let ano = time.year;
+let mes = time.month;
+
+console.log(`Hoje é dia ${dia}/${mes}/${ano}`);
+```
+
+# Hora brasileira:
 
 ```js
 const time = require("br-time.js");
 
-console.log(time.year) // Retorna o dia atual.
-console.log(time.month) // Retorna o mês atual.
-console.log(time.days) // Retorna o dia atual.
-console.log(time.hour) // Retorna a hora atual.
-console.log(time.minute) // Retorna o minuto atual.
-console.log(time.second) // Retorna o segundo atual.
+let hora = time.hour;
+let minutos = time.minute;
+let segundos = time.second;
+
+console.log(`Agóra é exatamente: ${hora}:${minutos}${segundos}`);
 ```
