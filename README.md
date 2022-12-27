@@ -1,5 +1,5 @@
 # Instalação do pacote:
-```sh
+```js
 npm i br-time.js
 ```
 
