@@ -1,6 +1,6 @@
 # Instalação do pacote:
 ```
-npm i bt-time.js
+npm i br-time.js
 ```
 
 # Exemplo de uso abaixo:
