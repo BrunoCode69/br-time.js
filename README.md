@@ -1,3 +1,8 @@
+# Instalação do pacote:
+```
+npm i bt-time.js
+```
+
 # Exemplo de uso abaixo:
 # Data do calendario:
 ```js
